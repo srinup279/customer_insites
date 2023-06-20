@@ -1,0 +1,18 @@
+.error{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.error div img{
+    box-shadow: 7px 19px 31px 5px rgb(208, 205, 205);
+}
+
+.error a{
+    text-decoration: none;
+    color: white;
+    background-color: #0071c5;
+    padding: 8px 25px;
+    font-size: 13px;
+}
